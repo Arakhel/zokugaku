@@ -280,11 +280,11 @@ a:hover, a:focus, a:active {
 
 .btn-primary,
 .btn-primary:focus {
-    background-color: #0072ff;
-    background-image: -webkit-gradient(linear, left top, right top, from(#0072ff), to(#00c6ff));
-    background-image: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-    background-image: -o-linear-gradient(left, #0072ff, #00c6ff);
-    background-image: linear-gradient(90deg, #0072ff, #00c6ff);
+    background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00ecbc));
+    background-color: #007adf;
+    background-image: -webkit-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: -o-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: linear-gradient(100deg, #007adf 0%, #00ecbc 100%);
     border: 0;
     color: #fff;
 }
@@ -294,10 +294,10 @@ a:hover, a:focus, a:active {
 .btn-primary:focus:active {
     color: #fff;
     background-color: #6429ff;
-    background-image: -webkit-gradient(linear, left top, right top, from(#0072ff), to(#00c6ff));
-    background-image: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-    background-image: -o-linear-gradient(left, #0072ff, #00c6ff);
-    background-image: linear-gradient(90deg, #0072ff, #00c6ff);
+    background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00ecbc));
+    background-image: -webkit-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: -o-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: linear-gradient(100deg, #007adf 0%, #00ecbc 100%);
 }
 
 .btn-outline,
@@ -325,12 +325,12 @@ a:hover, a:focus, a:active {
 
 .btn-outline-primary:hover, .btn-outline-primary:active {
     color: #fff;
-    background-color: #4259ff;
-    border-color: #4259ff;
-    background-image: -webkit-gradient(linear, left top, right top, from(#0072ff), to(#00c6ff));
-    background-image: -webkit-linear-gradient(left, #0072ff, #00c6ff);
-    background-image: -o-linear-gradient(left, #0072ff, #00c6ff);
-    background-image: linear-gradient(90deg, #0072ff, #00c6ff);
+    background-color: #007adf;
+    border-color: #007adf;
+    background-image: -webkit-gradient(linear, left top, right top, from(#007adf), to(#00ecbc));
+    background-image: -webkit-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: -o-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: linear-gradient(100deg, #007adf 0%, #00ecbc 100%);
 }
 
 .btn-outline-primary-qirim {
@@ -514,10 +514,10 @@ header {
 
 .bg-shape {
     position: absolute;
-    background-color: #0072ff;
-    background-image: -webkit-linear-gradient(350deg, #0072ff, #4259ff);
-    background-image: -o-linear-gradient(350deg, #0072ff, #4259ff);
-    background-image: linear-gradient(100deg, #0072ff, #4259ff);
+    background-color: #007adf;
+    background-image: -webkit-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: -o-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: linear-gradient(100deg, #007adf 0%, #00ecbc 100%);
     top: -350px;
     right: -110px;
     border-radius: 8%;
@@ -547,10 +547,10 @@ header {
 
 .bg-circle {
     position: absolute;
-    background-color: #0072ff;
-    background-image: -webkit-linear-gradient(350deg, #0072ff, #00c6ff);
-    background-image: -o-linear-gradient(350deg, #0072ff, #00c6ff);
-    background-image: linear-gradient(100deg, #0072ff, #00c6ff);
+    background-color: #007adf;
+    background-image: -webkit-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: -o-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: linear-gradient(100deg, #007adf 0%, #00ecbc 100%);
     top: -400px;
     left: -350px;
     border-radius: 100%;
@@ -577,10 +577,10 @@ header {
 
 .bg-circle-two {
     position: absolute;
-    background-color: #7642FF;
-    background-image: -webkit-linear-gradient(350deg, #7642FF, #00c6ff);
-    background-image: -o-linear-gradient(350deg, #7642FF, #00c6ff);
-    background-image: linear-gradient(100deg, #7642FF, #00c6ff);
+    background-color: #007adf;
+    background-image: -webkit-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: -o-linear-gradient(350deg, #007adf 0%, #00ecbc 100%);
+    background-image: linear-gradient(100deg, #007adf 0%, #00ecbc 100%);
     top: 150px;
     left: 350px;
     border-radius: 100%;
